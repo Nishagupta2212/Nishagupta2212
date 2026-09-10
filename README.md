@@ -19,7 +19,7 @@
 ### 🚀 About Me
 
 - 🎓 B.E. in Information Technology, Chandigarh University (CGPA: 8.5/10)
-- 💡 Interested in **Machine Learning, Deep Learning, and Full-Stack Development**
+- 💡 Interested in **Software Development, Machine Learning, Deep Learning, and Full-Stack Development**
 - 🔭 Currently exploring **GenAI, LLMs, and Prompt Engineering**
 - 🌱 Completed a Data Structures & Algorithms internship at **Infosys Springboard**
 - 📈 Maintained SGPA above 9.0 across multiple semesters with a merit-based scholarship
